@@ -1,0 +1,39 @@
+From: <Saved by Blink>
+Snapshot-Content-Location: http://ILf8XVENTpDlwwH:QWguWmvxrSPB8dx@localhost:42542/storage/emulated/0/resume.html
+Subject: My Resume
+Date: Tue, 20 Oct 2026 16:32:06 GMT
+MIME-Version: 1.0
+Content-Type: multipart/related;
+	type="text/html";
+	boundary="----MultipartBoundary--oWUAasjfUeaVLawOqbIF3E1dYIyC3FeuBc10fHkL6I----"
+
+
+------MultipartBoundary--oWUAasjfUeaVLawOqbIF3E1dYIyC3FeuBc10fHkL6I----
+Content-Type: text/html
+Content-ID: <frame-15015092405E0291D0B2238E018C2060@mhtml.blink>
+Content-Transfer-Encoding: binary
+Content-Location: http://ILf8XVENTpDlwwH:QWguWmvxrSPB8dx@localhost:42542/storage/emulated/0/resume.html
+
+<!DOCTYPE html><html><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+  
+  <title>My Resume</title>
+</head>
+<body>
+<h1>Prabhjot kaur</h1>
+ <h3>B.Tech CSE AI First Year Student</h3>
+ <p>Hello! I am <strong>Prabhjot kaur</strong>. I love <em>coding</em> and sketching.</p>
+ <hr>
+ <div>
+ <h2>Skills</h2>
+ <p>HTML, Git, Typing<br>Learning: CSS and JavaScript</p>
+ </div>
+ <div>
+ <h2>Education</h2>
+ <p>12th - St. patrick academy<br>B.Tech - Invertis University (running)</p>
+ </div>
+ <hr>
+ <p>Email: prabhjotcheema317@gmail.com</p>
+
+
+</body></html>
+------MultipartBoundary--oWUAasjfUeaVLawOqbIF3E1dYIyC3FeuBc10fHkL6I------
